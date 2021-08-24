@@ -23,7 +23,7 @@ El programa debe leer tres valores enteros a, b y c, y encontrar los valores de 
 - Si a = 0 y b != 0 se debe despejar el valor de x = –c/b y mostrar este valor.
 - Si a != 0 y b != 0 se debe calcular el discriminante.
       * Si el valor del discriminante es negativo debe mostrar el mensaje `"Raices complejas"`.
-      * Si el valor del discriminante es positivo debe calcular y mostrar los dos valores de x, una en cada renglón.
+      * Si el valor del discriminante es positivo debe calcular y mostrar los dos valores de x, una en cada renglón, con la fórmula de la formula general para resolver ecuaciones de segundo grado.
       * En caso de que el discriminante sea cero se debe mostrar sólo un valor de x = -b/(2a).
 
 **Entradas**
